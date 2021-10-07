@@ -1,0 +1,1 @@
+Git is a distributed VCS that helps us to keep track of our files
